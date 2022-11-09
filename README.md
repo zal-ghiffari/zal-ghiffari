@@ -21,7 +21,7 @@
     </a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zal-ghiffari&theme=darkhub" alt="zal-ghiffari" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zal-ghiffari&theme=darkhub" alt="zal-ghiffari" /></a> </p>
 <br/>
 
 ## 📊 My Github Stats
@@ -38,7 +38,6 @@
 
 <a href="https://github.com/zal-ghiffari/github-readme-activity-graph"><img alt="zal-ghiffari's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=zal-ghiffari&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
 <br/>
 
 ## Connect with me:
