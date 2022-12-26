@@ -40,6 +40,8 @@
 
 <br/>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/ktrnxx.png" alt="TryHackMe">
+
 ## Connect with me:
 <p align="left">
 
